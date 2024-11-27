@@ -2,8 +2,6 @@ owner: Fabrik19
 repo: upptime
 
 sites:
-  - name: Fabrik19
-    url: https://fabrik19.de/
   - name: Mobilitysuite
     url: https://mobilitysuite.de/
     icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
@@ -46,12 +44,12 @@ sites:
       - 403
 
 status-website:
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
-  logoUrl: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/logo.svg
-  name: Fabrik19
+  cname: status.mobilitysuite.de
+  logoUrl: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  faviconSvg: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  name: mos.
   introTitle: "**Upptime** System Monitoring"
-  introMessage: System Status for Fabrik19.
+  introMessage: System Status for mos.
   theme: dark
   navbar:
     - title: Status
