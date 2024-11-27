@@ -1,23 +1,5 @@
 [
   {
-    "name": "Fabrik19",
-    "url": "https://fabrik19.de/",
-    "icon": "https://icons.duckduckgo.com/ip3/fabrik19.de.ico",
-    "slug": "fabrik19",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 923,
-    "timeDay": 923,
-    "timeWeek": 923,
-    "timeMonth": 923,
-    "timeYear": 923,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Mobilitysuite",
     "url": "https://mobilitysuite.de/",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
