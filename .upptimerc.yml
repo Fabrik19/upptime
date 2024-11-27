@@ -6,10 +6,44 @@ sites:
     url: https://fabrik19.de/
   - name: Mobilitysuite
     url: https://mobilitysuite.de/
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
   - name: Portal
     url: https://portal.mobilitysuite.de/
   - name: Portal Core
     url: https://prod-portal-core.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Portal Media
+    url: https://prod-portal-core.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Portal CMS
+    url: https://prod-portal-poi.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Portal Publisher
+    url: https://prod-portal-publisher.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Portal Push
+    url: https://prod-portal-push.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Portal Quiz
+    url: https://prod-portal-quiz.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Screem
+    url: https://tv.api.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: OTV
+    url: https://otv.api.mobilitysuite.de/v2/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Viewer Backend
+    url: https://mos-viewer.app.mobilitysuite.de/_health
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+  - name: Documentation
+    url: https://documentation.mobilitysuite.de/
+  - name: Launcher Backend
+    url: https://download.server.mobilitysuite.de/
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   # cname: demo.upptime.js.org
