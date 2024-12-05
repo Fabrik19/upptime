@@ -1,6 +1,9 @@
 owner: Fabrik19
 repo: upptime
 
+assignees:
+  - b-kirchner-f19
+  - f19philipp
 sites:
   - name: Mobilitysuite
     url: https://mobilitysuite.de/
