@@ -172,18 +172,20 @@
     "url": "https://otv.api.mobilitysuite.de/v2/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "otv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 599,
-    "timeWeek": 627,
-    "timeMonth": 611,
+    "timeDay": 632,
+    "timeWeek": 632,
+    "timeMonth": 613,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Viewer Backend",
