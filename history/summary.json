@@ -118,18 +118,20 @@
     "url": "https://prod-portal-push.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-push",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 574,
-    "timeWeek": 618,
-    "timeMonth": 637,
-    "timeYear": 612,
-    "dailyMinutesDown": {}
+    "time": 610,
+    "timeDay": 538,
+    "timeWeek": 604,
+    "timeMonth": 632,
+    "timeYear": 610,
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Portal Quiz",
