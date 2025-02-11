@@ -118,19 +118,19 @@
     "url": "https://prod-portal-push.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-push",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 615,
-    "timeDay": 656,
-    "timeWeek": 641,
-    "timeMonth": 642,
-    "timeYear": 615,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 624,
+    "timeDay": 748,
+    "timeWeek": 691,
+    "timeMonth": 659,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-02-11": 27
+      "2025-02-11": 43
     }
   },
   {
