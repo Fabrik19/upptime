@@ -1,7 +1,7 @@
 url: https://prod-portal-poi.api.mobilitysuite.de/_health
 status: up
 code: 200
-responseTime: 774
-lastUpdated: 2025-02-14T23:13:56.324Z
+responseTime: 605
+lastUpdated: 2025-02-15T23:13:00.269Z
 startTime: 2024-11-27T08:15:50.873Z
 generator: Upptime <https://github.com/upptime/upptime>
