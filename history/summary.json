@@ -4,11 +4,11 @@
     "url": "https://mobilitysuite.de/",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "mobilitysuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 2496,
     "timeDay": 1914,
@@ -16,7 +16,7 @@
     "timeMonth": 1838,
     "timeYear": 2496,
     "dailyMinutesDown": {
-      "2025-03-07": 18,
+      "2025-03-07": 25,
       "2025-02-14": 5,
       "2024-12-21": 13,
       "2024-12-18": 10,
@@ -30,19 +30,19 @@
     "url": "https://portal.mobilitysuite.de/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.mobilitysuite.de.ico",
     "slug": "portal",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 753,
     "timeDay": 2868,
     "timeWeek": 1131,
     "timeMonth": 801,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-03-07": 18
+      "2025-03-07": 24
     }
   },
   {
@@ -51,18 +51,18 @@
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-core",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 652,
     "timeDay": 764,
     "timeWeek": 593,
     "timeMonth": 668,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-03-07": 4
+      "2025-03-07": 14
     }
   },
   {
@@ -88,36 +88,40 @@
     "url": "https://prod-portal-poi.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 658,
     "timeDay": 653,
     "timeWeek": 576,
     "timeMonth": 665,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 5
+    }
   },
   {
     "name": "Portal Publisher",
     "url": "https://prod-portal-publisher.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-publisher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 569,
     "timeWeek": 588,
     "timeMonth": 623,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 4
+    }
   },
   {
     "name": "Portal Push",
@@ -125,18 +129,18 @@
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-push",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.93%",
     "time": 625,
     "timeDay": 640,
     "timeWeek": 510,
     "timeMonth": 649,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-03-07": 2,
+      "2025-03-07": 12,
       "2025-02-12": 26,
       "2025-02-11": 62
     }
@@ -164,10 +168,10 @@
     "url": "https://tv.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "screem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -175,7 +179,9 @@
     "timeWeek": 516,
     "timeMonth": 621,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 2
+    }
   },
   {
     "name": "OTV",
@@ -183,11 +189,11 @@
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "otv",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 615,
     "timeDay": 696,
     "timeWeek": 549,
