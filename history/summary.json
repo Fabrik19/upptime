@@ -4,11 +4,11 @@
     "url": "https://mobilitysuite.de/",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "mobilitysuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 2499,
     "timeDay": 1661,
@@ -16,6 +16,7 @@
     "timeMonth": 1827,
     "timeYear": 2499,
     "dailyMinutesDown": {
+      "2025-03-07": 5,
       "2025-02-14": 5,
       "2024-12-21": 13,
       "2024-12-18": 10,
@@ -29,18 +30,20 @@
     "url": "https://portal.mobilitysuite.de/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.mobilitysuite.de.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 713,
     "timeDay": 911,
     "timeWeek": 604,
     "timeMonth": 657,
     "timeYear": 713,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 4
+    }
   },
   {
     "name": "Portal Core",
@@ -199,10 +202,10 @@
     "url": "https://mos-viewer.app.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "viewer-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
@@ -210,7 +213,9 @@
     "timeWeek": 568,
     "timeMonth": 615,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "Documentation",
