@@ -152,19 +152,19 @@
     "url": "https://prod-portal-quiz.api.mobilitysuite.de/_health",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "portal-quiz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 714,
-    "timeWeek": 629,
-    "timeMonth": 632,
-    "timeYear": 636,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 635,
+    "timeDay": 625,
+    "timeWeek": 609,
+    "timeMonth": 626,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 23
     }
   },
   {
