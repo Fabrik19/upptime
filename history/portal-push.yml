@@ -1,7 +1,7 @@
 url: https://prod-portal-push.api.mobilitysuite.de/_health
 status: up
 code: 200
-responseTime: 663
-lastUpdated: 2025-05-09T23:14:49.479Z
+responseTime: 549
+lastUpdated: 2025-05-10T23:14:28.083Z
 startTime: 2024-11-27T08:15:52.592Z
 generator: Upptime <https://github.com/upptime/upptime>
