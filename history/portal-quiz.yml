@@ -1,7 +1,7 @@
 url: https://prod-portal-quiz.api.mobilitysuite.de/_health
-status: down
-code: 503
-responseTime: 543
-lastUpdated: 2025-06-05T13:03:18.876Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2025-06-05T13:38:11.004Z
 startTime: 2024-11-27T08:15:53.331Z
 generator: Upptime <https://github.com/upptime/upptime>
