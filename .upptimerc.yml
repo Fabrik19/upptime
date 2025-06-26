@@ -66,6 +66,22 @@ sites:
     expectedStatusCodes:
       - 0
       - 200
+  - name: OTV Buergerfrontend
+    url: https://otv.fabrik19.de/de/f19
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+    assignees:
+      - mse-f19
+    expectedStatusCodes:
+      - 0
+      - 200
+  - name: OTV Portal
+    url: https://de.terminvergabe.ontever.de/login
+    icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
+    assignees:
+      - mse-f19
+    expectedStatusCodes:
+      - 0
+      - 200
   - name: Viewer Backend
     url: https://mos-viewer.app.mobilitysuite.de/_health
     icon: https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg
