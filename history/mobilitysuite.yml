@@ -1,7 +1,7 @@
 url: https://mobilitysuite.de/
-status: up
-code: 200
-responseTime: 1648
-lastUpdated: 2025-08-30T23:14:03.525Z
+status: down
+code: 415
+responseTime: 729
+lastUpdated: 2025-08-31T05:55:53.798Z
 startTime: 2024-11-27T07:09:06.668Z
 generator: Upptime <https://github.com/upptime/upptime>
