@@ -1,7 +1,7 @@
 url: https://prod-portal-publisher.api.mobilitysuite.de/_health
-status: down
-code: 503
-responseTime: 869
-lastUpdated: 2025-09-15T09:48:53.124Z
+status: up
+code: 200
+responseTime: 529
+lastUpdated: 2025-09-15T09:54:50.395Z
 startTime: 2024-11-27T08:15:51.728Z
 generator: Upptime <https://github.com/upptime/upptime>
