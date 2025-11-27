@@ -4,16 +4,16 @@
     "url": "https://mobilitysuite.de/",
     "icon": "https://github.com/Fabrik19/upptime/raw/refs/heads/master/assets/mos-icon.svg",
     "slug": "mobilitysuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "96.86%",
+    "uptimeDay": "99.55%",
     "uptimeWeek": "97.79%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.79%",
-    "time": 1758,
-    "timeDay": 1114,
-    "timeWeek": 1079,
-    "timeMonth": 1075,
+    "time": 1756,
+    "timeDay": 1055,
+    "timeWeek": 1061,
+    "timeMonth": 1069,
     "timeYear": 1758,
     "dailyMinutesDown": {
       "2025-11-27": 6,
@@ -82,7 +82,7 @@
     "timeDay": 711,
     "timeWeek": 645,
     "timeMonth": 649,
-    "timeYear": 696,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-03-07": 27
     }
@@ -102,7 +102,7 @@
     "timeDay": 1121,
     "timeWeek": 797,
     "timeMonth": 664,
-    "timeYear": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-09-18": 6,
       "2025-03-07": 18
@@ -178,12 +178,12 @@
     "slug": "portal-push",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.17%",
+    "uptimeDay": "99.57%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 624,
-    "timeDay": 675,
+    "timeDay": 642,
     "timeWeek": 630,
     "timeMonth": 620,
     "timeYear": 624,
@@ -213,7 +213,7 @@
     "timeDay": 921,
     "timeWeek": 645,
     "timeMonth": 576,
-    "timeYear": 628,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-08-27": 12,
       "2025-08-25": 30,
@@ -276,7 +276,7 @@
     "timeDay": 715,
     "timeWeek": 619,
     "timeMonth": 567,
-    "timeYear": 789,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-09-15": 6,
       "2025-04-17": 618,
